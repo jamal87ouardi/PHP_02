@@ -1,0 +1,12 @@
+.b1 {
+position: relative;
+left: 100px;
+top: 20px;
+width: 800px;
+height: 450px;
+background-color: bisque;
+border-radius: 10px;
+padding: 20px;
+
+}
+
